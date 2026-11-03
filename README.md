@@ -1,0 +1,1 @@
+# MGC.UnityAdapter
